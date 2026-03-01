@@ -1,0 +1,8 @@
+===== data\input.txt =====
+#Configuration
+
+default_file=data/input.txt
+base_dir=data
+out_dir=out
+default_ext=.txt
+

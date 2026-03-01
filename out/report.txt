@@ -1,0 +1,17 @@
+=== REPORT GLOBAL ===
+Directory: data
+Extension: .txt
+
+File: data\input.txt
+  Size(bytes): 91
+  ModTime: 2026-02-27 09:22:42.9367223 +0100 CET
+  Lines: 6
+  Words(no-numeric): 5
+  AvgWordLen: 16.20
+
+=== TOTALS ===
+Files found: 1
+Files analyzed OK: 1
+Total size(bytes): 91
+Total lines: 6
+Total words(no-numeric): 5

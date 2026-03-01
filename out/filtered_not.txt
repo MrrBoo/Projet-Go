@@ -1,0 +1,4 @@
+#Configuration
+
+out_dir=out
+default_ext=.txt
