@@ -1,3 +1,6 @@
+Stanislas de Dieuleveult
+M1 DOA
+
 # FileOps / WebOps - Outil d'analyse de fichiers en Go
 
 Ce projet est un outil en ligne de commande développé en Go qui permet d'analyser des fichiers texte (stats, filtres, fusion, rapports) et de récupérer du contenu depuis Wikipédia pour lui appliquer les mêmes traitements.
